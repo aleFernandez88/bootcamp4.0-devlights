@@ -1,0 +1,14 @@
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\bin\Debug\net9.0\Ejercicio20.exe
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\bin\Debug\net9.0\Ejercicio20.deps.json
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\bin\Debug\net9.0\Ejercicio20.runtimeconfig.json
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\bin\Debug\net9.0\Ejercicio20.dll
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\bin\Debug\net9.0\Ejercicio20.pdb
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\obj\Debug\net9.0\Ejercicio20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\obj\Debug\net9.0\Ejercicio20.AssemblyInfoInputs.cache
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\obj\Debug\net9.0\Ejercicio20.AssemblyInfo.cs
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\obj\Debug\net9.0\Ejercicio20.csproj.CoreCompileInputs.cache
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\obj\Debug\net9.0\Ejercicio20.dll
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\obj\Debug\net9.0\refint\Ejercicio20.dll
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\obj\Debug\net9.0\Ejercicio20.pdb
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\obj\Debug\net9.0\Ejercicio20.genruntimeconfig.cache
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio20\obj\Debug\net9.0\ref\Ejercicio20.dll

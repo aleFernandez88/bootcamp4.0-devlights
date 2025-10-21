@@ -1,0 +1,14 @@
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\bin\Debug\net9.0\Ejercicio21-extra.exe
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\bin\Debug\net9.0\Ejercicio21-extra.deps.json
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\bin\Debug\net9.0\Ejercicio21-extra.runtimeconfig.json
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\bin\Debug\net9.0\Ejercicio21-extra.dll
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\bin\Debug\net9.0\Ejercicio21-extra.pdb
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\obj\Debug\net9.0\Ejercicio21-extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\obj\Debug\net9.0\Ejercicio21-extra.AssemblyInfoInputs.cache
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\obj\Debug\net9.0\Ejercicio21-extra.AssemblyInfo.cs
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\obj\Debug\net9.0\Ejercicio21-extra.csproj.CoreCompileInputs.cache
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\obj\Debug\net9.0\Ejercicio21-extra.dll
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\obj\Debug\net9.0\refint\Ejercicio21-extra.dll
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\obj\Debug\net9.0\Ejercicio21-extra.pdb
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\obj\Debug\net9.0\Ejercicio21-extra.genruntimeconfig.cache
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio21-extra\obj\Debug\net9.0\ref\Ejercicio21-extra.dll
