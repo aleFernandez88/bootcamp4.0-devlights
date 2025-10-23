@@ -1,0 +1,15 @@
+dotnet new console --name
+dotnet sln add Ejercicio01/Ejercicio01.csproj
+
+dotnet run --project Ejercicio02
+
+namespace Ejercicio04
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            
+        }
+    }
+}

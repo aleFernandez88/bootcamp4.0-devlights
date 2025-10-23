@@ -1,0 +1,15 @@
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\bin\Debug\net9.0\Ejercicio06.exe
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\bin\Debug\net9.0\Ejercicio06.deps.json
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\bin\Debug\net9.0\Ejercicio06.runtimeconfig.json
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\bin\Debug\net9.0\Ejercicio06.dll
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\bin\Debug\net9.0\Ejercicio06.pdb
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\obj\Debug\net9.0\Ejercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\obj\Debug\net9.0\Ejercicio06.AssemblyInfoInputs.cache
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\obj\Debug\net9.0\Ejercicio06.AssemblyInfo.cs
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\obj\Debug\net9.0\Ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\obj\Debug\net9.0\Ejercicio06.sourcelink.json
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\obj\Debug\net9.0\Ejercicio06.dll
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\obj\Debug\net9.0\refint\Ejercicio06.dll
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\obj\Debug\net9.0\Ejercicio06.pdb
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\obj\Debug\net9.0\Ejercicio06.genruntimeconfig.cache
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\Ejercicio06\obj\Debug\net9.0\ref\Ejercicio06.dll
