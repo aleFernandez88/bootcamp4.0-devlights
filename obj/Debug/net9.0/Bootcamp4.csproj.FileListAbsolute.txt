@@ -2,3 +2,4 @@ C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\obj\Debug\net9.0\Bo
 C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\obj\Debug\net9.0\Bootcamp4.AssemblyInfoInputs.cache
 C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\obj\Debug\net9.0\Bootcamp4.AssemblyInfo.cs
 C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\obj\Debug\net9.0\Bootcamp4.csproj.CoreCompileInputs.cache
+C:\Users\cambi\OneDrive\Escritorio\projects\DotNet\Bootcamp4\obj\Debug\net9.0\Bootcamp4.sourcelink.json
