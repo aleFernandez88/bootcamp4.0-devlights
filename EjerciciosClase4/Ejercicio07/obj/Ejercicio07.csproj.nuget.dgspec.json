@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cambi\\OneDrive\\Escritorio\\projects\\DotNet\\Bootcamp4\\EjerciciosClase4\\Ejercicio07\\Ejercicio07.csproj": {}
+    "C:\\Users\\cambi\\OneDrive\\Escritorio\\projects\\DotNet\\Bootcamp4\\ejerciciosclase4\\Ejercicio07\\Ejercicio07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cambi\\OneDrive\\Escritorio\\projects\\DotNet\\Bootcamp4\\EjerciciosClase4\\Ejercicio07\\Ejercicio07.csproj": {
+    "C:\\Users\\cambi\\OneDrive\\Escritorio\\projects\\DotNet\\Bootcamp4\\ejerciciosclase4\\Ejercicio07\\Ejercicio07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cambi\\OneDrive\\Escritorio\\projects\\DotNet\\Bootcamp4\\EjerciciosClase4\\Ejercicio07\\Ejercicio07.csproj",
+        "projectUniqueName": "C:\\Users\\cambi\\OneDrive\\Escritorio\\projects\\DotNet\\Bootcamp4\\ejerciciosclase4\\Ejercicio07\\Ejercicio07.csproj",
         "projectName": "Ejercicio07",
-        "projectPath": "C:\\Users\\cambi\\OneDrive\\Escritorio\\projects\\DotNet\\Bootcamp4\\EjerciciosClase4\\Ejercicio07\\Ejercicio07.csproj",
+        "projectPath": "C:\\Users\\cambi\\OneDrive\\Escritorio\\projects\\DotNet\\Bootcamp4\\ejerciciosclase4\\Ejercicio07\\Ejercicio07.csproj",
         "packagesPath": "C:\\Users\\cambi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cambi\\OneDrive\\Escritorio\\projects\\DotNet\\Bootcamp4\\EjerciciosClase4\\Ejercicio07\\obj\\",
+        "outputPath": "C:\\Users\\cambi\\OneDrive\\Escritorio\\projects\\DotNet\\Bootcamp4\\ejerciciosclase4\\Ejercicio07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
